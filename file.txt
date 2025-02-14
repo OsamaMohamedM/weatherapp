@@ -1,4 +1,1 @@
-osama
-osama
-osama
-osama
+firstLine
